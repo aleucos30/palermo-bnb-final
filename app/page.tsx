@@ -1,7 +1,8 @@
-﻿const GENERATING = false;
-"use client";
+﻿"use client";
 
-"use client"; // Aggiungi questo se usi bottoni o interazioni
+const GENERATING = false;
+
+
 
 
 import React from 'react';
