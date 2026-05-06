@@ -1,3 +1,4 @@
+const GENERATING = false;
 "use client"; // Aggiungi questo se usi bottoni o interazioni
 
 const GENERATING = false; 
